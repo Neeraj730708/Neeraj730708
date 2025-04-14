@@ -7,7 +7,7 @@
 - 🎓 I'm a final year **Computer Science Engineering** student.
 - 🌱 I’m currently learning **DSA** and **MERN Stack**.
 - 💼 I’m looking to build a career as a **Software Developer**.
-- 🚀 I love working on **projects** related to **MERN Stack**, **AI**, and **Machine Learning**.
+- 🚀 I love working on **projects** related to **C++**, **MERN Stack**, **AI**, and **Machine Learning**.
 - 🌍 I’m passionate about **technology**, **coding**, and **solving real-world problems**.
 
 ---
