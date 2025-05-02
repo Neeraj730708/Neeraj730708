@@ -24,9 +24,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
 ### Machine Learning:
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=cnn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -35,9 +35,8 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj730708&show_icons=true&locale=en&layout=compact" alt="neeraj730708" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj730708&show_icons=true&locale=en" alt="neeraj730708" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj730708&show_icons=true&locale=en&layout=compact" alt="Neeraj730708" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj730708&show_icons=true&locale=en" alt="Neeraj730708" /></p>
 
 
 ---
@@ -50,4 +49,6 @@
 - 🧩 codolio: [Neeraj Kumar](https://codolio.com/profile/neel_) 
 
 ---
+
+
 
