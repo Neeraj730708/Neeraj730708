@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a final year **Computer Science Engineering** student.
-- 🌱 I’m currently learning **DSA**,**JAVA Full-Stack**, **Big Data Analytics**.
+- 🌱 I’m currently learning **DSA**, **JAVA Full-Stack**, **Big Data Analytics**.
 - 💼 I’m looking to build a career as a **Software Developer/Data Scientist**.
 - 🚀 I love working on **projects** related to **C++**, **JAVA Full-Stack**, **AI**, and **Machine Learning**.
 - 🌍 I’m passionate about **technology**, **coding**, and **solving real-world problems**.
